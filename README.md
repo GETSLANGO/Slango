@@ -1,4 +1,4 @@
-# SlangSwap - Modular Translation Platform
+# Slango - Modular Translation Platform
 
 A platform-agnostic, multilingual translation application with modular architecture designed for seamless deployment across web, mobile, and future platforms.
 
